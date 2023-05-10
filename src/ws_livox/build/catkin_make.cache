@@ -1,0 +1,2 @@
+livox_ros_driver
+-DCATKIN_DEVEL_PREFIX=/home/beihang705/catkin_ros/src/ws_livox/devel -DCMAKE_INSTALL_PREFIX=/home/beihang705/catkin_ros/src/ws_livox/install -G Unix Makefiles

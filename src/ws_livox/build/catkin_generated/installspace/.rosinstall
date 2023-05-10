@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/beihang705/catkin_ros/src/ws_livox/install/setup.sh
